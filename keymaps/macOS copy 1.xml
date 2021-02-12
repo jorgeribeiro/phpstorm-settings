@@ -5,6 +5,6 @@
   </action>
   <action id="NextWindow" />
   <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="shift meta exclamation_mark" />
+    <keyboard-shortcut first-keystroke="shift meta 1" />
   </action>
 </keymap>

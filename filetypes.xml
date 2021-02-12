@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="202102021017-update-hotels-table" type="AUTO_DETECTED" />
       <mapping pattern="202001071107-nullify-birthdate-and-nationality" type="AUTO_DETECTED" />
       <mapping pattern="202101171546-upgrade-fitness-2021-plan-price" type="AUTO_DETECTED" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
